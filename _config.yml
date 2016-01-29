@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3075564
+color:
+  saturation: 0.6930928
+  lightness: 0.5448028
+  brandStrength: 0.4749104
+  brandColors:
+    - '#E62129'
+    - '#FEFEFE'
+    - '#000000'
+    - '#B6B6B7'
+    - '#757475'
+  rhythmicContrast: 0.03915188
+name: iGotForms
